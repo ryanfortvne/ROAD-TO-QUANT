@@ -12,7 +12,7 @@ The thresholds below represent my current working definitions for evaluating str
 
 | Category | Metric | Current Criterion |
 | :--- | :--- | :--- |
-| **Return Profile** | Expected Value / Expectancy | `> 0.00 R` |
+| **Return Profile** | Expectancy | `> 0.00 R` |
 | | Payoff Ratio | `> 1.50 : 1` |
 | | Profit Factor | `≥ 1.00` |
 | **Consistency & Risk** | Risk of Ruin | `< 1.00%` |
