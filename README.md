@@ -1,5 +1,3 @@
-# Quantitative Strategy Evaluation & Research Standards
-
 This repository documents my ongoing quantitative research, strategy development, and risk management frameworks. It serves as a central log for active projects, backtesting criteria, and execution standards.
 
 ---
