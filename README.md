@@ -4,7 +4,7 @@ This repository documents my ongoing quantitative research, strategy development
 
 ---
 
-## 🎯 Current Research Standards
+## Current Research Standards
 
 The thresholds below represent my current working definitions for evaluating strategy viability. They are designed to assess performance holistically across return profile, statistical confidence, drawdown control, and execution sustainability.
 
@@ -27,7 +27,7 @@ The thresholds below represent my current working definitions for evaluating str
 
 ---
 
-## 🧠 Evaluation Framework
+## Evaluation Framework
 
 No single metric is sufficient to declare a strategy viable. This evaluation model tests a system across multiple dimensions:
 
@@ -41,7 +41,7 @@ $$\text{Return} \longrightarrow \text{Consistency} \longrightarrow \text{Statist
 
 ## 🔬 Active Projects
 
-### 📊 Statistical Research
+### Statistical Research
 * **Kill Criterion Framework:** A systematic evaluation framework designed to automatically flag or decommission strategies failing core expectancy, payoff ratio, risk of ruin, Sharpe, or drawdown thresholds.
 
 ---
